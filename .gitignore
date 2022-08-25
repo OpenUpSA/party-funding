@@ -1,0 +1,23 @@
+/data/out/*.json
+!data/out/lookup.json
+!data/out/year_Sector_Name-treemap.json
+!data/out/Name-no-ids.json
+!data/out/Province-no-ids.json
+!data/out/lookup-*.json
+!data/out/annual-report-filenames.json
+
+data/name-resolution-tmp.json
+
+webflow-export.zip
+
+node_modules
+
+.pythonenv
+*.pyc
+
+.cache
+dist
+temp
+
+# MacOS
+.DS_Store

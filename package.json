@@ -1,0 +1,59 @@
+{
+  "name": "party-funding",
+  "version": "0.0.1",
+  "description": "Party funding explorer tool",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "webflow-import": "npx import-webflow webflow-export.zip",
+    "lint": "eslint src/js/ --ext js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "staticFiles": {
+    "staticPath": [
+      {
+        "staticPath": "data/out",
+        "staticOutDir": "data"
+      },
+      {
+        "staticPath": "data/annual-reports",
+        "staticOutDir": "data/annual-reports"
+      }
+    ]
+  },
+  "importWebflowExport": {
+    "copyTrees": {
+      "css": "src/css",
+      "js": "src/js",
+      "images": "src/images"
+    },
+    "importHtml": [
+      {
+        "glob": "*.html",
+        "destDir": "src",
+        "transforms": "./src/js/webflow-transform.js"
+      }
+    ]
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.12.13",
+    "babel-plugin-transform-regenerator": "^6.26.0",
+    "eslint": "^7.19.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "import-webflow-export": "0.0.4",
+    "parcel-bundler": "^1.12.4",
+    "parcel-plugin-static-files-copy": "^2.5.1"
+  },
+  "dependencies": {
+    "d3": "^6.5.0",
+    "d3-fetch": "^2.0.0",
+    "d3-hierarchy": "^2.0.0",
+    "d3-selection": "^2.0.0",
+    "jquery": "^3.5.1",
+    "js-worker-search": "^1.4.1"
+  }
+}

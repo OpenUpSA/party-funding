@@ -1,0 +1,2 @@
+python transform.py
+python generate_annual_report_filenames.py
