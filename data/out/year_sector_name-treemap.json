@@ -1,0 +1,769 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "name": "3",
+              "amount": 15000000.0,
+              "ids": [
+                32
+              ]
+            }
+          ],
+          "sector": "32"
+        },
+        {
+          "children": [
+            {
+              "name": "4",
+              "amount": 15000000.0,
+              "ids": [
+                44
+              ]
+            },
+            {
+              "name": "1",
+              "amount": 7500000.0,
+              "ids": [
+                8
+              ]
+            }
+          ],
+          "sector": "8"
+        },
+        {
+          "children": [
+            {
+              "name": "4",
+              "amount": 15000000.0,
+              "ids": [
+                46
+              ]
+            }
+          ],
+          "sector": "42"
+        },
+        {
+          "children": [
+            {
+              "name": "3",
+              "amount": 15000000.0,
+              "ids": [
+                19
+              ]
+            }
+          ],
+          "sector": "19"
+        },
+        {
+          "children": [
+            {
+              "name": "3",
+              "amount": 15000000.0,
+              "ids": [
+                21
+              ]
+            }
+          ],
+          "sector": "21"
+        },
+        {
+          "children": [
+            {
+              "name": "3",
+              "amount": 5853969.0,
+              "ids": [
+                18
+              ]
+            },
+            {
+              "name": "4",
+              "amount": 2115019.0,
+              "ids": [
+                33
+              ]
+            },
+            {
+              "name": "5",
+              "amount": 1099088.0,
+              "ids": [
+                55
+              ]
+            },
+            {
+              "name": "7",
+              "amount": 343794.0,
+              "ids": [
+                62
+              ]
+            },
+            {
+              "name": "10",
+              "amount": 242219.0,
+              "ids": [
+                68
+              ]
+            }
+          ],
+          "sector": "18"
+        },
+        {
+          "children": [
+            {
+              "name": "3",
+              "amount": 5853969.0,
+              "ids": [
+                23
+              ]
+            },
+            {
+              "name": "4",
+              "amount": 2115019.0,
+              "ids": [
+                40
+              ]
+            },
+            {
+              "name": "5",
+              "amount": 1099088.0,
+              "ids": [
+                56
+              ]
+            },
+            {
+              "name": "7",
+              "amount": 343794.0,
+              "ids": [
+                64
+              ]
+            },
+            {
+              "name": "10",
+              "amount": 242219.0,
+              "ids": [
+                69
+              ]
+            }
+          ],
+          "sector": "23"
+        },
+        {
+          "children": [
+            {
+              "name": "4",
+              "amount": 5099000.0,
+              "ids": [
+                39
+              ]
+            }
+          ],
+          "sector": "37"
+        },
+        {
+          "children": [
+            {
+              "name": "1",
+              "amount": 4212250.5,
+              "ids": [
+                10
+              ]
+            }
+          ],
+          "sector": "10"
+        },
+        {
+          "children": [
+            {
+              "name": "1",
+              "amount": 3333334.0,
+              "ids": [
+                14
+              ]
+            }
+          ],
+          "sector": "14"
+        },
+        {
+          "children": [
+            {
+              "name": "1",
+              "amount": 3333333.0,
+              "ids": [
+                5
+              ]
+            }
+          ],
+          "sector": "5"
+        },
+        {
+          "children": [
+            {
+              "name": "1",
+              "amount": 3333333.0,
+              "ids": [
+                11
+              ]
+            }
+          ],
+          "sector": "11"
+        },
+        {
+          "children": [
+            {
+              "name": "1",
+              "amount": 2744462.0,
+              "ids": [
+                13
+              ]
+            }
+          ],
+          "sector": "13"
+        },
+        {
+          "children": [
+            {
+              "name": "3",
+              "amount": 2500000.0,
+              "ids": [
+                24
+              ]
+            }
+          ],
+          "sector": "24"
+        },
+        {
+          "children": [
+            {
+              "name": "4",
+              "amount": 2016279.0,
+              "ids": [
+                38
+              ]
+            }
+          ],
+          "sector": "36"
+        },
+        {
+          "children": [
+            {
+              "name": "3",
+              "amount": 2000000.0,
+              "ids": [
+                30
+              ]
+            }
+          ],
+          "sector": "30"
+        },
+        {
+          "children": [
+            {
+              "name": "4",
+              "amount": 1000000.0,
+              "ids": [
+                47
+              ]
+            },
+            {
+              "name": "3",
+              "amount": 1000000.0,
+              "ids": [
+                28
+              ]
+            }
+          ],
+          "sector": "28"
+        },
+        {
+          "children": [
+            {
+              "name": "3",
+              "amount": 1000000.0,
+              "ids": [
+                29
+              ]
+            }
+          ],
+          "sector": "29"
+        },
+        {
+          "children": [
+            {
+              "name": "4",
+              "amount": 1000000.0,
+              "ids": [
+                52
+              ]
+            }
+          ],
+          "sector": "47"
+        },
+        {
+          "children": [
+            {
+              "name": "3",
+              "amount": 900000.0,
+              "ids": [
+                20
+              ]
+            }
+          ],
+          "sector": "20"
+        },
+        {
+          "children": [
+            {
+              "name": "4",
+              "amount": 813293.25,
+              "ids": [
+                36
+              ]
+            }
+          ],
+          "sector": "35"
+        },
+        {
+          "children": [
+            {
+              "name": "3",
+              "amount": 800000.0,
+              "ids": [
+                17
+              ]
+            },
+            {
+              "name": "5",
+              "amount": 750000.0,
+              "ids": [
+                54
+              ]
+            },
+            {
+              "name": "6",
+              "amount": 200000.0,
+              "ids": [
+                59
+              ]
+            },
+            {
+              "name": "8",
+              "amount": 200000.0,
+              "ids": [
+                65
+              ]
+            }
+          ],
+          "sector": "17"
+        },
+        {
+          "children": [
+            {
+              "name": "1",
+              "amount": 650000.0,
+              "ids": [
+                7
+              ]
+            }
+          ],
+          "sector": "7"
+        },
+        {
+          "children": [
+            {
+              "name": "3",
+              "amount": 620000.0,
+              "ids": [
+                27
+              ]
+            }
+          ],
+          "sector": "27"
+        },
+        {
+          "children": [
+            {
+              "name": "1",
+              "amount": 557520.0,
+              "ids": [
+                12
+              ]
+            }
+          ],
+          "sector": "12"
+        },
+        {
+          "children": [
+            {
+              "name": "4",
+              "amount": 500000.0,
+              "ids": [
+                48
+              ]
+            }
+          ],
+          "sector": "43"
+        },
+        {
+          "children": [
+            {
+              "name": "1",
+              "amount": 500000.0,
+              "ids": [
+                9
+              ]
+            }
+          ],
+          "sector": "9"
+        },
+        {
+          "children": [
+            {
+              "name": "3",
+              "amount": 500000.0,
+              "ids": [
+                26
+              ]
+            }
+          ],
+          "sector": "26"
+        },
+        {
+          "children": [
+            {
+              "name": "1",
+              "amount": 500000.0,
+              "ids": [
+                1
+              ]
+            }
+          ],
+          "sector": "2"
+        },
+        {
+          "children": [
+            {
+              "name": "3",
+              "amount": 366000.0,
+              "ids": [
+                25
+              ]
+            }
+          ],
+          "sector": "25"
+        },
+        {
+          "children": [
+            {
+              "name": "1",
+              "amount": 350000.0,
+              "ids": [
+                3
+              ]
+            }
+          ],
+          "sector": "4"
+        },
+        {
+          "children": [
+            {
+              "name": "1",
+              "amount": 301488.26,
+              "ids": [
+                2
+              ]
+            }
+          ],
+          "sector": "3"
+        },
+        {
+          "children": [
+            {
+              "name": "4",
+              "amount": 300000.0,
+              "ids": [
+                51
+              ]
+            }
+          ],
+          "sector": "46"
+        },
+        {
+          "children": [
+            {
+              "name": "4",
+              "amount": 300000.0,
+              "ids": [
+                35
+              ]
+            }
+          ],
+          "sector": "34"
+        },
+        {
+          "children": [
+            {
+              "name": "4",
+              "amount": 250000.0,
+              "ids": [
+                42
+              ]
+            }
+          ],
+          "sector": "39"
+        },
+        {
+          "children": [
+            {
+              "name": "0",
+              "amount": 235000.0,
+              "ids": [
+                0
+              ]
+            },
+            {
+              "name": "1",
+              "amount": 225000.0,
+              "ids": [
+                4
+              ]
+            }
+          ],
+          "sector": "1"
+        },
+        {
+          "children": [
+            {
+              "name": "8",
+              "amount": 230000.0,
+              "ids": [
+                66
+              ]
+            }
+          ],
+          "sector": "53"
+        },
+        {
+          "children": [
+            {
+              "name": "1",
+              "amount": 230000.0,
+              "ids": [
+                6
+              ]
+            }
+          ],
+          "sector": "6"
+        },
+        {
+          "children": [
+            {
+              "name": "4",
+              "amount": 200394.0,
+              "ids": [
+                45
+              ]
+            }
+          ],
+          "sector": "41"
+        },
+        {
+          "children": [
+            {
+              "name": "4",
+              "amount": 200000.0,
+              "ids": [
+                50
+              ]
+            }
+          ],
+          "sector": "45"
+        },
+        {
+          "children": [
+            {
+              "name": "4",
+              "amount": 200000.0,
+              "ids": [
+                43
+              ]
+            }
+          ],
+          "sector": "40"
+        },
+        {
+          "children": [
+            {
+              "name": "4",
+              "amount": 170000.0,
+              "ids": [
+                34
+              ]
+            }
+          ],
+          "sector": "33"
+        },
+        {
+          "children": [
+            {
+              "name": "3",
+              "amount": 150000.0,
+              "ids": [
+                22
+              ]
+            },
+            {
+              "name": "4",
+              "amount": 150000.0,
+              "ids": [
+                37
+              ]
+            }
+          ],
+          "sector": "22"
+        },
+        {
+          "children": [
+            {
+              "name": "9",
+              "amount": 150000.0,
+              "ids": [
+                67
+              ]
+            }
+          ],
+          "sector": "54"
+        },
+        {
+          "children": [
+            {
+              "name": "6",
+              "amount": 140447.0,
+              "ids": [
+                61
+              ]
+            }
+          ],
+          "sector": "51"
+        },
+        {
+          "children": [
+            {
+              "name": "6",
+              "amount": 122900.0,
+              "ids": [
+                60
+              ]
+            }
+          ],
+          "sector": "50"
+        },
+        {
+          "children": [
+            {
+              "name": "4",
+              "amount": 120000.0,
+              "ids": [
+                49
+              ]
+            }
+          ],
+          "sector": "44"
+        },
+        {
+          "children": [
+            {
+              "name": "2",
+              "amount": 112386.04,
+              "ids": [
+                15
+              ]
+            }
+          ],
+          "sector": "15"
+        },
+        {
+          "children": [
+            {
+              "name": "2",
+              "amount": 100000.0,
+              "ids": [
+                16
+              ]
+            }
+          ],
+          "sector": "16"
+        },
+        {
+          "children": [
+            {
+              "name": "4",
+              "amount": 100000.0,
+              "ids": [
+                41
+              ]
+            }
+          ],
+          "sector": "38"
+        },
+        {
+          "children": [
+            {
+              "name": "7",
+              "amount": 100000.0,
+              "ids": [
+                63
+              ]
+            }
+          ],
+          "sector": "52"
+        },
+        {
+          "children": [
+            {
+              "name": "5",
+              "amount": 100000.0,
+              "ids": [
+                58
+              ]
+            },
+            {
+              "name": "4",
+              "amount": 100000.0,
+              "ids": [
+                53
+              ]
+            }
+          ],
+          "sector": "48"
+        },
+        {
+          "children": [
+            {
+              "name": "3",
+              "amount": 100000.0,
+              "ids": [
+                31
+              ]
+            }
+          ],
+          "sector": "31"
+        },
+        {
+          "children": [
+            {
+              "name": "5",
+              "amount": 100000.0,
+              "ids": [
+                57
+              ]
+            }
+          ],
+          "sector": "49"
+        }
+      ],
+      "year": "2022-2023"
+    }
+  ]
+}

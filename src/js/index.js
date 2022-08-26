@@ -5,7 +5,6 @@ import { FilterSearchSelect } from "./filter-search-select";
 import { Search } from "./search";
 import { Treemaps } from "./treemaps";
 import { Overlay } from "./overlay";
-import { AnnualReports } from "./annual-reports";
 
 const legend = $(".legend__wrapper");
 
@@ -17,7 +16,6 @@ Promise.all([
   d3.json("data/lookup-names.json"),
   d3.json("data/lookup-sectors.json"),
   d3.json("data/Province-no-ids.json"),
-  d3.json("data/annual-report-filenames.json"),
 ])
   .then(
     ([
@@ -26,9 +24,7 @@ Promise.all([
       nameLookup,
       sectorLookup,
       provinceSummary,
-      annualReports,
     ]) => {
-      new AnnualReports(annualReports);
       const lookups = {
         grant: lookup,
         name: nameLookup,
@@ -48,17 +44,8 @@ Promise.all([
         },
       };
       const colors = {
-        "Arts, culture and national heritage": legend
+        Political: legend
           .find(".legend-swatch--colour-1")
-          .css("background-color"),
-        Charities: legend
-          .find(".legend-swatch--colour-2")
-          .css("background-color"),
-        Miscellaneous: legend
-          .find(".legend-swatch--colour-3")
-          .css("background-color"),
-        "Sports & recreation": legend
-          .find(".legend-swatch--colour-4")
           .css("background-color"),
         UNSPECIFIED: legend
           .find(".legend-swatch--colour-5")
@@ -166,7 +153,6 @@ Promise.all([
     }
   )
   .catch(function (e) {
-    console.log(e);
     $(".data-list__loading").hide();
     $(".search-loading").hide();
   });

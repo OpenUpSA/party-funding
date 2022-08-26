@@ -1,0 +1,632 @@
+{
+  "0": {
+    "amount": "235000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "0",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "1",
+    "year": "2022-2023"
+  },
+  "1": {
+    "amount": "500000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "1",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "2",
+    "year": "2022-2023"
+  },
+  "2": {
+    "amount": "301488.26",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "1",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "3",
+    "year": "2022-2023"
+  },
+  "3": {
+    "amount": "350000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "1",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "4",
+    "year": "2022-2023"
+  },
+  "4": {
+    "amount": "225000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "1",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "1",
+    "year": "2022-2023"
+  },
+  "5": {
+    "amount": "3333333.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "1",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "5",
+    "year": "2022-2023"
+  },
+  "6": {
+    "amount": "230000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "1",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "6",
+    "year": "2022-2023"
+  },
+  "7": {
+    "amount": "650000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "1",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "7",
+    "year": "2022-2023"
+  },
+  "8": {
+    "amount": "7500000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "1",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "8",
+    "year": "2022-2023"
+  },
+  "9": {
+    "amount": "500000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "1",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "9",
+    "year": "2022-2023"
+  },
+  "10": {
+    "amount": "4212250.50",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "1",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "10",
+    "year": "2022-2023"
+  },
+  "11": {
+    "amount": "3333333.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "1",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "11",
+    "year": "2022-2023"
+  },
+  "12": {
+    "amount": "557520.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "1",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "12",
+    "year": "2022-2023"
+  },
+  "13": {
+    "amount": "2744462.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "1",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "13",
+    "year": "2022-2023"
+  },
+  "14": {
+    "amount": "3333334.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "1",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "14",
+    "year": "2022-2023"
+  },
+  "15": {
+    "amount": "112386.04",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "2",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "15",
+    "year": "2022-2023"
+  },
+  "16": {
+    "amount": "100000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "2",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "16",
+    "year": "2022-2023"
+  },
+  "17": {
+    "amount": "800000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "3",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "17",
+    "year": "2022-2023"
+  },
+  "18": {
+    "amount": "5853969.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "3",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "18",
+    "year": "2022-2023"
+  },
+  "19": {
+    "amount": "15000000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "3",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "19",
+    "year": "2022-2023"
+  },
+  "20": {
+    "amount": "900000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "3",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "20",
+    "year": "2022-2023"
+  },
+  "21": {
+    "amount": "15000000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "3",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "21",
+    "year": "2022-2023"
+  },
+  "22": {
+    "amount": "150000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "3",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "22",
+    "year": "2022-2023"
+  },
+  "23": {
+    "amount": "5853969.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "3",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "23",
+    "year": "2022-2023"
+  },
+  "24": {
+    "amount": "2500000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "3",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "24",
+    "year": "2022-2023"
+  },
+  "25": {
+    "amount": "366000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "3",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "25",
+    "year": "2022-2023"
+  },
+  "26": {
+    "amount": "500000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "3",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "26",
+    "year": "2022-2023"
+  },
+  "27": {
+    "amount": "620000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "3",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "27",
+    "year": "2022-2023"
+  },
+  "28": {
+    "amount": "1000000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "3",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "28",
+    "year": "2022-2023"
+  },
+  "29": {
+    "amount": "1000000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "3",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "29",
+    "year": "2022-2023"
+  },
+  "30": {
+    "amount": "2000000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "3",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "30",
+    "year": "2022-2023"
+  },
+  "31": {
+    "amount": "100000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "3",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "31",
+    "year": "2022-2023"
+  },
+  "32": {
+    "amount": "15000000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "3",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "32",
+    "year": "2022-2023"
+  },
+  "33": {
+    "amount": "2115019.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "4",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "18",
+    "year": "2022-2023"
+  },
+  "34": {
+    "amount": "170000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "4",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "33",
+    "year": "2022-2023"
+  },
+  "35": {
+    "amount": "300000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "4",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "34",
+    "year": "2022-2023"
+  },
+  "36": {
+    "amount": "813293.25",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "4",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "35",
+    "year": "2022-2023"
+  },
+  "37": {
+    "amount": "150000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "4",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "22",
+    "year": "2022-2023"
+  },
+  "38": {
+    "amount": "2016279.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "4",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "36",
+    "year": "2022-2023"
+  },
+  "39": {
+    "amount": "5099000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "4",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "37",
+    "year": "2022-2023"
+  },
+  "40": {
+    "amount": "2115019.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "4",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "23",
+    "year": "2022-2023"
+  },
+  "41": {
+    "amount": "100000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "4",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "38",
+    "year": "2022-2023"
+  },
+  "42": {
+    "amount": "250000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "4",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "39",
+    "year": "2022-2023"
+  },
+  "43": {
+    "amount": "200000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "4",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "40",
+    "year": "2022-2023"
+  },
+  "44": {
+    "amount": "15000000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "4",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "8",
+    "year": "2022-2023"
+  },
+  "45": {
+    "amount": "200394.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "4",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "41",
+    "year": "2022-2023"
+  },
+  "46": {
+    "amount": "15000000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "4",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "42",
+    "year": "2022-2023"
+  },
+  "47": {
+    "amount": "1000000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "4",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "28",
+    "year": "2022-2023"
+  },
+  "48": {
+    "amount": "500000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "4",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "43",
+    "year": "2022-2023"
+  },
+  "49": {
+    "amount": "120000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "4",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "44",
+    "year": "2022-2023"
+  },
+  "50": {
+    "amount": "200000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "4",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "45",
+    "year": "2022-2023"
+  },
+  "51": {
+    "amount": "300000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "4",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "46",
+    "year": "2022-2023"
+  },
+  "52": {
+    "amount": "1000000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "4",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "47",
+    "year": "2022-2023"
+  },
+  "53": {
+    "amount": "100000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "4",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "48",
+    "year": "2022-2023"
+  },
+  "54": {
+    "amount": "750000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "5",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "17",
+    "year": "2022-2023"
+  },
+  "55": {
+    "amount": "1099088.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "5",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "18",
+    "year": "2022-2023"
+  },
+  "56": {
+    "amount": "1099088.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "5",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "23",
+    "year": "2022-2023"
+  },
+  "57": {
+    "amount": "100000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "5",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "49",
+    "year": "2022-2023"
+  },
+  "58": {
+    "amount": "100000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "5",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "48",
+    "year": "2022-2023"
+  },
+  "59": {
+    "amount": "200000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "6",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "17",
+    "year": "2022-2023"
+  },
+  "60": {
+    "amount": "122900.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "6",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "50",
+    "year": "2022-2023"
+  },
+  "61": {
+    "amount": "140447.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "6",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "51",
+    "year": "2022-2023"
+  },
+  "62": {
+    "amount": "343794.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "7",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "18",
+    "year": "2022-2023"
+  },
+  "63": {
+    "amount": "100000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "7",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "52",
+    "year": "2022-2023"
+  },
+  "64": {
+    "amount": "343794.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "7",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "23",
+    "year": "2022-2023"
+  },
+  "65": {
+    "amount": "200000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "8",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "17",
+    "year": "2022-2023"
+  },
+  "66": {
+    "amount": "230000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "8",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "53",
+    "year": "2022-2023"
+  },
+  "67": {
+    "amount": "150000.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "9",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "54",
+    "year": "2022-2023"
+  },
+  "68": {
+    "amount": "242219.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "10",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "18",
+    "year": "2022-2023"
+  },
+  "69": {
+    "amount": "242219.00",
+    "date": "2022-08-24T00:00:00Z",
+    "name": "10",
+    "projectNumber": "Political",
+    "province": "National",
+    "sector": "23",
+    "year": "2022-2023"
+  }
+}

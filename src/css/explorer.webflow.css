@@ -1390,22 +1390,6 @@ strong {
   background-color: rgba(0, 0, 0, 0.1);
 }
 
-.annual-reports {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  margin-right: auto;
-  margin-bottom: 12px;
-  padding: 8px 12px;
-  -webkit-box-align: center;
-  -webkit-align-items: center;
-  -ms-flex-align: center;
-  align-items: center;
-  background-color: rgba(0, 0, 0, 0.05);
-  color: #333;
-}
-
 .useful-links___icon {
   width: 24px;
   height: 24px;

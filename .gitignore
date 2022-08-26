@@ -4,7 +4,6 @@
 !data/out/Name-no-ids.json
 !data/out/Province-no-ids.json
 !data/out/lookup-*.json
-!data/out/annual-report-filenames.json
 
 data/name-resolution-tmp.json
 

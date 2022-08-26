@@ -41,91 +41,160 @@ UNSPECIFIED = 'UNSPECIFIED'
 
 province_names = {
     UNSPECIFIED: UNSPECIFIED,
-    "ec": "EC",
-    "freestate": "FS",
-    "gauteng": "GP",
-    "kzn": "KZN",
-    "limpopo": "LP",
-    "mpumalanga": "MP",
-    "national": "N",
-    "nc": "NC",
-    "nw": "NW",
-    "wc": "WC",
+    "National": "National",
 }
 
 provinces = {
     "Unknown": UNSPECIFIED,
-    "EC": "ec",
-    "EASTERN CAPE": "ec",
-    "Eastern Cape": "ec",
-    "FREE STATE": "freestate",
-    "Free State": "freestate",
-    "FS": "freestate",
-    "FREESTATE": "freestate",
-    "GP": "gauteng",
-    "GAUTENG": "gauteng",
-    "Gauteng": "gauteng",
-    "KZN": "kzn",
-    "KWAZULU-NATAL": "kzn",
-    "KwaZulu-Natal": "kzn",
-    "KwaZulu Natal": "kzn",
-    "KWAZULU NATAL": "kzn",
-    "KWA-ZULU NATAL": "kzn",
-    "kZN": "kzn",
-    "LP": "limpopo",
-    "LIMPOPO": "limpopo",
-    "Limpopo": "limpopo",
-    "MP": "mpumalanga",
-    "MPUMALANGA": "mpumalanga",
-    "Mpumalanga": "mpumalanga",
-    "NATIONAL": "national",
-    "National Bodies": "national",
-    "NATIONAL BODIES": "national",
-    "NW": "nw",
-    "NORTH WEST": "nw",
-    "North West": "nw",
-    "NC": "nc",
-    "NORTHERN CAPE": "nc",
-    "Northern Cape": "nc",
-    "WC": "wc",
-    "WESTERN CAPE": "wc",
-    "Western Cape": "wc",
+    "National": "National",
 }
 
 sector_names = {
     "UNSPECIFIED": UNSPECIFIED,
-    "arts": "Arts, culture and national heritage",
-    "charities": "Charities",
-    "miscellaneous": "Miscellaneous",
-    "sports": "Sports & recreation",
+    "Firestation Asset Management (Pty) Ltd": "Firestation Asset Management (Pty) Ltd",
+    "African Equity Corporation Pty Ltd": "African Equity Corporation Pty Ltd",
+    "Black Like Me (Pty) Ltd": "Black Like Me (Pty) Ltd",
+    "Brahman Hills Proprietary limited": "Brahman Hills Proprietary limited",
+    "Firestation Asset Management (Pty) Ltd": "Firestation Asset Management (Pty) Ltd",
+    "Jesicca Slack-Jell": "Jesicca Slack-Jell",
+    "Kaggen Investment": "Kaggen Investment",
+    "Konrad-Adenauer-Stiftung E.V": "Konrad-Adenauer-Stiftung E.V",
+    "Martin Moshal": "Martin Moshal",
+    "Moxitone Investments Pty Ltd": "Moxitone Investments Pty Ltd",
+    "Pty Props 274 (Pty) Ltd": "Pty Props 274 (Pty) Ltd",
+    "Rebecca Oppenheimer": "Rebecca Oppenheimer",
+    "Style Eyes of Carlifonia (PTY) LTD": "Style Eyes of Carlifonia (PTY) LTD",
+    "The Shave and Gibson Foundation": "The Shave and Gibson Foundation",
+    "Victoria Freudenheim": "Victoria Freudenheim",
+    "Mkhuseli Jack Investment Trust": "Mkhuseli Jack Investment Trust",
+    "Sakhumzi Justice Macozoma": "Sakhumzi Justice Macozoma",
+    "3sixty Health Solutions": "3sixty Health Solutions",
+    "African Rainbow Minerals Ltd": "African Rainbow Minerals Ltd",
+    "Batho Batho": "Batho Batho",
+    "Cedric Muziwakhile Ntombela": "Cedric Muziwakhile Ntombela",
+    "Chancellor House Trust": "Chancellor House Trust",
+    "Discovery Central Services": "Discovery Central Services",
+    "Harmony Gold Mining Company Ltd": "Harmony Gold Mining Company Ltd",
+    "Majestic Silver Trading 40 (Pty) Ltd": "Majestic Silver Trading 40 (Pty) Ltd",
+    "Matamela Ramaphosa Cyril": "Matamela Ramaphosa Cyril",
+    "Mr Cedric M Ntombela": "Mr Cedric M Ntombela",
+    "Mr L Sibiya": "Mr L Sibiya",
+    "Naspers Ltd": "Naspers Ltd",
+    "Nep Consulting Engeneers Pty Ltd": "Nep Consulting Engeneers Pty Ltd",
+    "Nonkwelo Investment Holdings": "Nonkwelo Investment Holdings",
+    "Tyeks Security": "Tyeks Security",
+    "United Manganese Of Kalahari": "United Manganese Of Kalahari",
+    "African Rainbow Minerals Ltd": "African Rainbow Minerals Ltd",
+    "B & J Steenberg Engineering": "B & J Steenberg Engineering",
+    "Charles Liasides": "Charles Liasides",
+    "Danish Liberal Democracy Programme": "Danish Liberal Democracy Programme",
+    "Discovery Central Services": "Discovery Central Services",
+    "Friedrich Naumann Foundation": "Friedrich Naumann Foundation",
+    "Fynbos Ekwiteit (Pty) Ltd": "Fynbos Ekwiteit (Pty) Ltd",
+    "Harmony Gold Mining Company Ltd": "Harmony Gold Mining Company Ltd",
+    "Jacques Plaut": "Jacques Plaut",
+    "Karl Leinberger": "Karl Leinberger",
+    "Longlands Village (Pty) Ltd": "Longlands Village (Pty) Ltd",
+    "Martin Moshal": "Martin Moshal",
+    "Mr Jody Scheckter": "Mr Jody Scheckter",
+    "Ms Mary Slack": "Ms Mary Slack",
+    "Naspers Ltd": "Naspers Ltd",
+    "Nicholas Frank Oppenheimer": "Nicholas Frank Oppenheimer",
+    "Polyoak Packaging (Pty) Ltd": "Polyoak Packaging (Pty) Ltd",
+    "Sandy Van Hoogstraten": "Sandy Van Hoogstraten",
+    "Sir Michael Lawrence Davis": "Sir Michael Lawrence Davis",
+    "The Chandos Trust": "The Chandos Trust",
+    "The South African Breweries Pty Ltd": "The South African Breweries Pty Ltd",
+    "3sixty Health Solutions": "3sixty Health Solutions",
+    "African Rainbow Minerals Ltd": "African Rainbow Minerals Ltd",
+    "Harmony Gold Mining Company Ltd": "Harmony Gold Mining Company Ltd",
+    "Mr SN Maseko": "Mr SN Maseko",
+    "The South African Breweries Pty Ltd": "The South African Breweries Pty Ltd",
+    "3sixty Health Solutions": "3sixty Health Solutions",
+    "SI Africa Solutions": "SI Africa Solutions",
+    "South African Law School": "South African Law School",
+    "African Rainbow Minerals Ltd": "African Rainbow Minerals Ltd",
+    "Counterpoint Trading 156": "Counterpoint Trading 156",
+    "Harmony Gold Mining Company Ltd": "Harmony Gold Mining Company Ltd",
+    "3sixty Health Solutions": "3sixty Health Solutions",
+    "Gayton Mckenzie": "Gayton Mckenzie",
+    "Institute Of Commerce & Management SA": "Institute Of Commerce & Management SA",
+    "African Rainbow Minerals Ltd": "African Rainbow Minerals Ltd",
+    "Harmony Gold Mining Company Ltd": "Harmony Gold Mining Company Ltd"
 }
 sectors = {
     "": "UNSPECIFIED",
     "UNSPECIFIED": "UNSPECIFIED",
-    "Arts": "arts",
-    "Arts, Culture & National Heritage": "arts",
-    "Arts, Culture and National Heritage": "arts",
-    "ARTS, CULTURE AND NATIONAL HERITAGE": "arts",
-    "ARTS, CULTURE AND NATIONAL HERITAGE CATEGORY": "arts",
-    "ARTS, CULTURE & NATIONAL HERITAGE": "arts",
-    "ARTS": "arts",
-    "Charities": "charities",
-    "CHARITIES": "charities",
-    "CHARITIES CATEGORY": "charities",
-    "MISC": "miscellaneous",
-    "Misc": "miscellaneous",
-    "Miscellaneous Purposes": "miscellaneous",
-    "MISCELLANEOUS PURPOSES": "miscellaneous",
-    "MISCELLANEOUS": "miscellaneous",
-    "Sports": "sports",
-    "Sports & Recreation": "sports",
-    "Sport & Recreation": "sports",
-    "SPORTS": "sports",
-    "SPORT": "sports",
-    "SPORT & RECREATION": "sports",
-    "SPORT AND RECREATION CATEGORY": "sports",
-    "SPORT AND RECREATION": "sports",
-    "SPORTS & RECREATION": "sports",
+    "Firestation Asset Management (Pty) Ltd": "Firestation Asset Management (Pty) Ltd",
+    "African Equity Corporation Pty Ltd": "African Equity Corporation Pty Ltd",
+    "Black Like Me (Pty) Ltd": "Black Like Me (Pty) Ltd",
+    "Brahman Hills Proprietary limited": "Brahman Hills Proprietary limited",
+    "Firestation Asset Management (Pty) Ltd": "Firestation Asset Management (Pty) Ltd",
+    "Jesicca Slack-Jell": "Jesicca Slack-Jell",
+    "Kaggen Investment": "Kaggen Investment",
+    "Konrad-Adenauer-Stiftung E.V": "Konrad-Adenauer-Stiftung E.V",
+    "Martin Moshal": "Martin Moshal",
+    "Moxitone Investments Pty Ltd": "Moxitone Investments Pty Ltd",
+    "Pty Props 274 (Pty) Ltd": "Pty Props 274 (Pty) Ltd",
+    "Rebecca Oppenheimer": "Rebecca Oppenheimer",
+    "Style Eyes of Carlifonia (PTY) LTD": "Style Eyes of Carlifonia (PTY) LTD",
+    "The Shave and Gibson Foundation": "The Shave and Gibson Foundation",
+    "Victoria Freudenheim": "Victoria Freudenheim",
+    "Mkhuseli Jack Investment Trust": "Mkhuseli Jack Investment Trust",
+    "Sakhumzi Justice Macozoma": "Sakhumzi Justice Macozoma",
+    "3sixty Health Solutions": "3sixty Health Solutions",
+    "African Rainbow Minerals Ltd": "African Rainbow Minerals Ltd",
+    "Batho Batho": "Batho Batho",
+    "Cedric Muziwakhile Ntombela": "Cedric Muziwakhile Ntombela",
+    "Chancellor House Trust": "Chancellor House Trust",
+    "Discovery Central Services": "Discovery Central Services",
+    "Harmony Gold Mining Company Ltd": "Harmony Gold Mining Company Ltd",
+    "Majestic Silver Trading 40 (Pty) Ltd": "Majestic Silver Trading 40 (Pty) Ltd",
+    "Matamela Ramaphosa Cyril": "Matamela Ramaphosa Cyril",
+    "Mr Cedric M Ntombela": "Mr Cedric M Ntombela",
+    "Mr L Sibiya": "Mr L Sibiya",
+    "Naspers Ltd": "Naspers Ltd",
+    "Nep Consulting Engeneers Pty Ltd": "Nep Consulting Engeneers Pty Ltd",
+    "Nonkwelo Investment Holdings": "Nonkwelo Investment Holdings",
+    "Tyeks Security": "Tyeks Security",
+    "United Manganese Of Kalahari": "United Manganese Of Kalahari",
+    "African Rainbow Minerals Ltd": "African Rainbow Minerals Ltd",
+    "B & J Steenberg Engineering": "B & J Steenberg Engineering",
+    "Charles Liasides": "Charles Liasides",
+    "Danish Liberal Democracy Programme": "Danish Liberal Democracy Programme",
+    "Discovery Central Services": "Discovery Central Services",
+    "Friedrich Naumann Foundation": "Friedrich Naumann Foundation",
+    "Fynbos Ekwiteit (Pty) Ltd": "Fynbos Ekwiteit (Pty) Ltd",
+    "Harmony Gold Mining Company Ltd": "Harmony Gold Mining Company Ltd",
+    "Jacques Plaut": "Jacques Plaut",
+    "Karl Leinberger": "Karl Leinberger",
+    "Longlands Village (Pty) Ltd": "Longlands Village (Pty) Ltd",
+    "Martin Moshal": "Martin Moshal",
+    "Mr Jody Scheckter": "Mr Jody Scheckter",
+    "Ms Mary Slack": "Ms Mary Slack",
+    "Naspers Ltd": "Naspers Ltd",
+    "Nicholas Frank Oppenheimer": "Nicholas Frank Oppenheimer",
+    "Polyoak Packaging (Pty) Ltd": "Polyoak Packaging (Pty) Ltd",
+    "Sandy Van Hoogstraten": "Sandy Van Hoogstraten",
+    "Sir Michael Lawrence Davis": "Sir Michael Lawrence Davis",
+    "The Chandos Trust": "The Chandos Trust",
+    "The South African Breweries Pty Ltd": "The South African Breweries Pty Ltd",
+    "3sixty Health Solutions": "3sixty Health Solutions",
+    "African Rainbow Minerals Ltd": "African Rainbow Minerals Ltd",
+    "Harmony Gold Mining Company Ltd": "Harmony Gold Mining Company Ltd",
+    "Mr SN Maseko": "Mr SN Maseko",
+    "The South African Breweries Pty Ltd": "The South African Breweries Pty Ltd",
+    "3sixty Health Solutions": "3sixty Health Solutions",
+    "SI Africa Solutions": "SI Africa Solutions",
+    "South African Law School": "South African Law School",
+    "African Rainbow Minerals Ltd": "African Rainbow Minerals Ltd",
+    "Counterpoint Trading 156": "Counterpoint Trading 156",
+    "Harmony Gold Mining Company Ltd": "Harmony Gold Mining Company Ltd",
+    "3sixty Health Solutions": "3sixty Health Solutions",
+    "Gayton Mckenzie": "Gayton Mckenzie",
+    "Institute Of Commerce & Management SA": "Institute Of Commerce & Management SA",
+    "African Rainbow Minerals Ltd": "African Rainbow Minerals Ltd",
+    "Harmony Gold Mining Company Ltd": "Harmony Gold Mining Company Ltd"
 }
 
 repo_path = Path(__file__).resolve().parents[1]
@@ -174,22 +243,26 @@ def process_lookup():
         print(f'\nProcessing "{str(in_base_path)}" as year {year}')
         with in_base_path.open() as file:
             reader = csv.DictReader(file)
-            out_fields = list((set(fields) & set(reader.fieldnames)).union(forced_fields))
+            out_fields = list(
+                (set(fields) & set(reader.fieldnames)).union(forced_fields))
             missing_fields = list(set(fields) - set(out_fields))
             print(f" - matched fields: {out_fields}")
             print(f" - missing fields: {missing_fields}")
             for mandatory_field in mandatory_fields:
                 if mandatory_field in missing_fields:
-                    print(f"Mandatory field '{mandatory_field}' missing from {in_base_path}")
+                    print(
+                        f"Mandatory field '{mandatory_field}' missing from {in_base_path}")
                     sys.exit(1)
             for row in reader:
                 out_obj = {"year": year}
                 for field in out_fields:
-                    value = row.setdefault(field, UNSPECIFIED).replace("\n", " ").strip()
+                    value = row.setdefault(
+                        field, UNSPECIFIED).replace("\n", " ").strip()
                     if field == 'Name':
                         value = normalize_beneficiary_name(value)
                         value_resolve = resolve_name(value)
-                        value = name_resolution.setdefault(value_resolve, value)
+                        value = name_resolution.setdefault(
+                            value_resolve, value)
                         if value not in index_names:
                             index_names[value] = name_id
                             name_id += 1
@@ -202,7 +275,8 @@ def process_lookup():
                         value = str(index_sectors[value])
                     elif field == "Province":
                         value = province_names[provinces[value]]
-                        memo_names(row["Name"].replace("\n", " "), "Province", value)
+                        memo_names(row["Name"].replace(
+                            "\n", " "), "Province", value)
                     out_obj[field_name(field)] = value
                 lookup[id] = out_obj
                 array.append(out_obj)
@@ -266,11 +340,13 @@ def process_totals(data):
     df["amount"] = pd.to_numeric(df["amount"])
     df["ids"] = df.reset_index().index
     for fields in totals:
-        grouped = df.groupby(fields).agg({"amount": "sum", "ids": lambda x: x.tolist()})
+        grouped = df.groupby(fields).agg(
+            {"amount": "sum", "ids": lambda x: x.tolist()})
         grouped = grouped.sort_values(by="amount", ascending=False)
         result = [] if len(fields) == 1 else {}
         for row in grouped.itertuples():
-            index = [row.Index] if isinstance(row.Index, (str, int)) else row.Index
+            index = [row.Index] if isinstance(
+                row.Index, (str, int)) else row.Index
             add_agg_layer(result, fields, index, row, 0)
         base_name = "_".join(fields)
         out_path = out_base_path / f"{base_name}.json"
