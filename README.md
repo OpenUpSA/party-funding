@@ -1,6 +1,8 @@
-# Party funding
+# MVC Party Funding
 
-This repo provides data processing from source CSV files, and a website to explore Party funding.
+This repo provides data processing from source CSV files, and a website to explore party funding.
+
+Adapted from the [SA Lottery Grants](https://github.com/OpenUpSA/lottery-grants/) tool.
 
 ## TODO
 
@@ -21,30 +23,20 @@ A Python virtual environment may be used as follows (run commands from `data` di
 - To activate the virtual environment, run `. activate.sh`.
 - To deactivate virtual environment, run `deactivate`.
 
-To generate data for the website, save CSV files to `/data/in/*{year}*.csv`, for example `/data/in/NLC-2001-2002 - cleaned.csv`, then:
+To generate data for the website, save CSV files to `/data/in/*{year}*.csv`, for example `/data/in/2002-cleaned.csv`, then:
 
 ```bash
 cd data
 python transform.py
 ```
 
-TODO: Manual actions (to be fixed at source):
-
-- `NLC-2003-2004 - cleaned2.csv` - header row 'Name,Sector,Province,Amount' moved from line 180 to line 1
-- `not_in_official 2017-2018.csv` - changed '-' amount to '0' in line '2018-02-28T00:00:00Z,90138,"SITHEMBIMFUNDO CRECHE & PRE",-' and changed column 'Organisation' to 'Name'
-
-
 ### Import Webflow export
 
-To update the website with a Webflow export, save the Webflow export to `/webflow-export.zip`, then run:
-
-```bash
-npm run webflow-import
-```
+Do not re-import from Webflow as manual changes have been made here.
 
 ## Deployment
 
-Commits to `main` are deployed to [party-funding.netlify.app](https://party-funding.netlify.app) by [Netlify](https://app.netlify.com/sites/party-funding).
+Commits to `main` are deployed to [mvc-party-funding.openup.org.za](https://mvc-party-funding.openup.org.za/) by [Netlify](https://app.netlify.com/sites/mvc-party-funding).
 
 Building of changes from `data/in` is including in the Netlify build, so this needs to be done manually and committed:
 

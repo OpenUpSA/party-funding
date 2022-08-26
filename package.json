@@ -1,7 +1,7 @@
 {
   "name": "party-funding",
   "version": "0.0.1",
-  "description": "Party funding explorer tool",
+  "description": "MVC Party Funding explorer tool",
   "main": "index.js",
   "scripts": {
     "dev": "parcel src/index.html",

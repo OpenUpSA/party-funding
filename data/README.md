@@ -1,4 +1,4 @@
-# Party funding data processing
+# MVC Party Funding data processing
 
 See `process.sh` for what should be run to generate outputs.
 
