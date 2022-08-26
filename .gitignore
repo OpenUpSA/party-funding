@@ -20,3 +20,5 @@ temp
 
 # MacOS
 .DS_Store
+
+.parcel-cache
