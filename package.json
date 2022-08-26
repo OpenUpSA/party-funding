@@ -2,7 +2,6 @@
   "name": "party-funding",
   "version": "0.0.1",
   "description": "MVC Party Funding explorer tool",
-  "main": "index.js",
   "scripts": {
     "dev": "parcel src/index.html",
     "build": "parcel build src/index.html",
@@ -41,7 +40,7 @@
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.22.1",
     "import-webflow-export": "0.0.4",
-    "parcel-bundler": "^1.12.4",
+    "parcel": "^2.6.2",
     "parcel-plugin-static-files-copy": "^2.5.1"
   },
   "dependencies": {
@@ -50,6 +49,6 @@
     "d3-hierarchy": "^2.0.0",
     "d3-selection": "^2.0.0",
     "jquery": "^3.5.1",
-    "js-worker-search": "^1.4.1"
+    "js-worker-search": "github:ranihorev/js-worker-search"
   }
 }
