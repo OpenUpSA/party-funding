@@ -234,7 +234,7 @@ export class Treemaps {
         d3.select(this)
           .append("div")
           .attr("class", "grant-data__row-amount")
-          .text(d.amount);
+          .text(d.amount.toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,'));
         d3.select(this)
           .append("div")
           .attr("class", "grant-data__row-year")
