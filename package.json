@@ -35,7 +35,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "^7.12.13",
+    "@babel/core": "^7.18.13",
     "babel-plugin-transform-regenerator": "^6.26.0",
     "eslint": "^7.19.0",
     "eslint-config-airbnb-base": "^14.2.1",
@@ -44,7 +44,7 @@
     "parcel-plugin-static-files-copy": "^2.5.1"
   },
   "dependencies": {
-    "d3": "^6.5.0",
+    "d3": "^7.6.1",
     "d3-fetch": "^2.0.0",
     "d3-hierarchy": "^2.0.0",
     "d3-selection": "^2.0.0",
