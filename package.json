@@ -3,34 +3,13 @@
   "version": "0.0.1",
   "description": "MVC Party Funding explorer tool",
   "scripts": {
+    "copy-data-files": "mkdir -p dist/data && cp data/out/* dist/data/",
+    "predev": "npm run copy-data-files",
     "dev": "parcel src/index.html",
     "build": "parcel build src/index.html",
-    "postbuild": "mkdir -p dist/data && cp data/out/* dist/data/",
-    "webflow-import": "npx import-webflow webflow-export.zip",
+    "postbuild": "npm run copy-data-files",
     "lint": "eslint src/js/ --ext js",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "staticFiles": {
-    "staticPath": [
-      {
-        "staticPath": "data/out",
-        "staticOutDir": "data"
-      }
-    ]
-  },
-  "importWebflowExport": {
-    "copyTrees": {
-      "css": "src/css",
-      "js": "src/js",
-      "images": "src/images"
-    },
-    "importHtml": [
-      {
-        "glob": "*.html",
-        "destDir": "src",
-        "transforms": "./src/js/webflow-transform.js"
-      }
-    ]
   },
   "author": "",
   "license": "MIT",
@@ -40,8 +19,7 @@
     "eslint": "^8.23.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.26.0",
-    "parcel": "^2.6.2",
-    "parcel-plugin-static-files-copy": "^2.5.1"
+    "parcel": "^2.6.2"
   },
   "dependencies": {
     "d3": "^7.6.1",
