@@ -37,9 +37,9 @@
   "devDependencies": {
     "@babel/core": "^7.18.13",
     "babel-plugin-transform-regenerator": "^6.26.0",
-    "eslint": "^7.19.0",
-    "eslint-config-airbnb-base": "^14.2.1",
-    "eslint-plugin-import": "^2.22.1",
+    "eslint": "^8.23.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
     "parcel": "^2.6.2",
     "parcel-plugin-static-files-copy": "^2.5.1"
   },
