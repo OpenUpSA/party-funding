@@ -9,17 +9,16 @@
     "build": "parcel build src/index.html",
     "postbuild": "npm run copy-data-files",
     "lint": "eslint src/js/ --ext js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "cypress run"
   },
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "^7.18.13",
-    "babel-plugin-transform-regenerator": "^6.26.0",
     "eslint": "^8.23.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.26.0",
-    "parcel": "^2.7.0"
+    "parcel": "^2.7.0",
+    "cypress": "^10.7.0"
   },
   "dependencies": {
     "d3": "^7.6.1",

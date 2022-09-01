@@ -22,3 +22,6 @@ temp
 .DS_Store
 
 .parcel-cache
+
+cypress/videos
+cypress/screenshots
